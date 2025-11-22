@@ -1,16 +1,16 @@
-# Data Wherehouse and Analytics Project
+# Data Warehouse and Analytics Project
 
-Welcome to the **Data Wherehouse and Analytics Project** repository! 🚀
+Welcome to the **Data Warehouse and Analytics Project** repository! 🚀
 this project demonstrates a comprehensive data wherehousing and analytics solution, from building a data wherehous to generating actionable insights. Designed as a portfolio project, it highlights industry best practices in data engineering and analytics
 
 --- 
 
 ## 🚀 Project Requirements
 
-### Building the Data Wherehouse (Data Engineering)
+### Building the Data Warehouse (Data Engineering)
 
 ### Objective
-Develop a modern data wherehouse with SQL Server to consolidate sales data, enabling analytical reporting and informed decistion-making
+Develop a modern data warehouse with SQL Server to consolidate sales data, enabling analytical reporting and informed decistion-making
 
 #### Specifications
 - **Data Sources**: Import data from two source systems (ERP and CRM) provided as CSV files.
